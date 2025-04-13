@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors-Game
 A colorful, interactive Rock Paper Scissors game with fun animations and fantasy-themed design.
+
 Features
 
     Play against the computer
